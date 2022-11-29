@@ -1,0 +1,64 @@
+.HomeMoviesMainDiv
+{
+    /* border:1px solid red; */
+    padding-left: 117px;
+    padding-right: 117px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display:flex;
+
+}
+.HomeMoviesFilter
+{
+/* border:1px solid red; */
+width:25%;
+/* height:1000px; */
+font-size: 28px;
+/* font-weight: bold; */
+}
+
+.HomeMoviesOnGoing
+{
+    /* border:1px solid green; */
+    width:75%;
+    font-size: 28px;
+    margin-left: 40px;
+}
+
+.HomeMoviesOnGoingDiv
+{
+    /* border:1px solid red; */
+    display:flex;
+    column-gap:40px;
+    flex-wrap: wrap;
+    height:auto;
+    justify-content:flex-start;
+    row-gap:40px;
+    align-items: center;
+    padding-top: 20px;
+    
+}
+.HomeMoviesOnGoingImgDiv
+{
+    border-radius: 15px;
+    /* border:1px solid red; */
+    display:flex;
+    flex-direction: column;
+    row-gap:10px;
+    font-weight: 500;
+    letter-spacing:1px;
+  
+}
+
+img{
+    border-radius: 15px;
+    cursor:pointer;
+
+}
+.GenresFilterDiv
+{
+    display:flex;
+    flex-wrap: wrap;
+    column-gap:10px;
+    row-gap:10px;
+}

@@ -1,0 +1,27 @@
+
+.mainheader
+{
+    /* border:1px solid red; */
+    height:70px;
+    display:flex;
+    align-items:center;
+    padding:20px;
+    flex-direction:row;
+    column-gap:20px;
+    justify-content: center;
+
+}
+.AllCities
+{
+    display:flex;
+    /* border:1px solid red; */
+    /* flex-direction: column; */
+    column-gap: 30px;
+    /* margin:10px; */
+    row-gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    width:100%;
+    justify-content:center
+    
+}

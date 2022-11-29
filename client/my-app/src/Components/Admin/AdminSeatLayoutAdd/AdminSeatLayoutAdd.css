@@ -1,0 +1,72 @@
+.admin-dashboard-seatlayout-main
+{
+    /* border:1px solid red; */
+    display:flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.admin-dashboard-seatlayout-name
+{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center
+    /* border:1px solid red; */
+}
+.admin-dashboard-seatlayout-controller
+{
+    /* border:1px solid green; */
+    display:flex;
+    justify-content:space-evenly;
+    column-gap: 10px;
+    padding:10px;
+  
+}
+.admin-dashboard-seatlayout-layout
+{
+    /* border:1px solid blue; */
+    padding:10px;
+}
+.admin-dashboard-seatlayout-controller-rowcontroller
+{
+    /* border:1px solid green; */
+    display:flex;
+    flex-direction: row;
+    column-gap: 10px;
+    width:50%;
+    justify-content: center;
+}
+.admin-dashboard-seatlayout-controller-columncontroller
+{
+    /* border:1px solid green; */
+    display:flex;
+    flex-direction: row;
+    column-gap: 10px;
+    width:50%;
+    justify-content: center;
+}
+.bt
+{
+    display:flex;
+    border:1px solid red;
+
+
+
+}
+.table-tiny th,
+.table-tiny td {
+  padding-left: 5px;
+  padding-right: 5px;
+  border:0px;
+}
+
+.theatrescreen
+{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:5px;
+ 
+    border-radius:2px;
+ 
+}

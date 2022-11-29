@@ -1,0 +1,56 @@
+.MovieTimingsMain
+{
+    display:flex;
+
+    flex-direction: column;
+    height:auto;
+        align-items: center;
+    /* background-color: black; */
+}
+.MovieTimingsMainDiv
+
+
+{
+    /* border:1px solid red; */
+    width:85%;
+    margin:10px;
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.MovieTimingsInfo
+{
+    display:flex;
+
+    flex-direction: column;
+    height:auto;
+    margin:10px;
+    /* border:1px solid red; */
+    align-items: center;
+}
+.MovieTimings
+{
+    width:85%;
+    margin:10px;
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+    column-gap: 10px;
+    /* border:1px solid green; */
+  
+}
+.time
+{
+    margin:20px;
+    /* border:1px solid red; */
+    width:85%;
+}
+.MovieInfoSingleDiv
+{
+    /* border:1px solid red; */
+    margin-bottom: 20px;
+    padding:15px;
+    border-radius: 10px;
+    width:80%;
+}

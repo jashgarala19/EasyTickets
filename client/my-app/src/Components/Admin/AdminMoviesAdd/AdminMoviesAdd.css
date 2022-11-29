@@ -1,0 +1,36 @@
+.react-datepicker__input-container input{
+ 
+    height:40px;
+    text-align: center;
+    background-color: #68d391;
+    /* background-color: transparent; */
+    color:#1a202c;
+    font-weight: bold;
+    border-radius: 5px;
+  
+    
+}
+.react-datepicker-time__input-container input
+{
+ 
+ background-color:#1d5d90;
+ color:white;
+ padding:5px;
+ border-radius: 5px;
+    font-weight: bold;
+}
+.MovieAddFormDiv
+{
+
+width:70%;
+padding:30px;
+display:flex;
+letter-spacing: 1px;
+    
+flex-direction: column;
+row-gap:30px;
+
+border-radius: 20px;
+margin: auto;
+
+}

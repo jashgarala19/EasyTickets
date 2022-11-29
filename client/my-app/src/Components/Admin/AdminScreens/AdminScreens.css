@@ -1,0 +1,93 @@
+.admin-dashboard-screen-main
+{
+    
+    padding:7px;
+
+    
+}
+
+
+.admin-dashboard-screen-addscreenlayoutdiv
+{
+    
+        /* border:1px solid red; */
+   width:100%;
+   padding:10px;
+
+}
+.admin-dashboard-screen-screens
+{
+    /* border:1px solid red; */
+    margin: 5px 0px 5px 0px;
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+.admin-dashboard-screen-screens-main
+{
+  
+    display:flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.admin-dashboard-screen-screensdiv
+{
+     /* border:1px solid red; */
+     /* border-radius: 10px; */
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content:center;
+    border-top-left-radius: 20px;
+    /* border-top-right-radius: 10px; */
+    border-bottom-right-radius: 20px;
+
+ 
+  
+}
+.admin-dashboard-screen-screensdiv2
+{
+    height:90%;
+     display:flex;
+     flex-direction:column;
+      justify-content:center;
+      width:100%;
+       align-items:center;
+
+    
+}
+
+.screennocircle
+{
+    /* border: 1px solid red; */
+    padding: 2px;
+    border-radius: 60px;
+    width: 50px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.screennocircle2
+{
+    /* border: 1px solid red; */
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
