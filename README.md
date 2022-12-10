@@ -87,6 +87,15 @@ Admin
 - Add  movies 
 
 User
-- Register and login 
+- Register / Login 
+- View Timings of all ongoing movies in theatre
+- Book tickets for ongoing movies based on their city
+- View Movie Details for the ongoing  movies in theatre
 
+
+
+## Authors
+
+- [@jashgarala19](https://github.com/jashgarala19)
+- [@Patelmansi22](https://github.com/Patelmansi22)
 
