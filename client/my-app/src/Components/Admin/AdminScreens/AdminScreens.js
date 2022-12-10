@@ -87,7 +87,7 @@ function AdminScreens() {
                     SEATLAYOUT
                   </Text>
             
-                  <Text letterSpacing="1px"fontSize="25px"  fontWeight="600" className="screennocircle2" bg={bg} >
+                  <Text letterSpacing="1px"fontSize="20px"  fontWeight="600" className="screennocircle2" bg={bg} >
                 {e.seatlayout_name}
                   </Text>
                   <br></br>
