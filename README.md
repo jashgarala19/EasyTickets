@@ -1,1 +1,1 @@
-# EasyTickets - A movie ticket booking system!!
+# EasyTickets - A movie ticket booking system
